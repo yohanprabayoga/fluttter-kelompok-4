@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841365963392",
+    "firebase_url": "https://tugas-rancang-iot-made-default-rtdb.firebaseio.com",
+    "project_id": "tugas-rancang-iot-made",
+    "storage_bucket": "tugas-rancang-iot-made.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841365963392:android:ccdc33d85fa3acc6245c65",
+        "android_client_info": {
+          "package_name": "com.example.pumpmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841365963392-4ekd3jrc9dv4cjnao82j62a8d6nhnna3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawZn_bEnwtH0sgVj_2xZKZsRz1v44pkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841365963392-4ekd3jrc9dv4cjnao82j62a8d6nhnna3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
